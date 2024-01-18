@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Welcome to my GitHub profile! 😊</h1>
 
-<!--
-**adrien-dimitri/adrien-dimitri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Hey, I'm Adrien, a student with a passion for programming.</p>
+<p align="center">Don't ask me why, but I'm a big fan of Docker—there's just something oddly satisfying about containers. 🐳</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Languages and tools I use:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://static-00.iconduck.com/assets.00/python-icon-512x509-pyuo2h5v.png" alt="Python Icon" height="50">
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-512x370-m2lt8o0b.png" alt="Docker Icon" height="50">
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-423x512-6xpyyw7t.png" alt="PyTorch Icon" height="50">
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC Icon" height="50">
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-489x512-l5jhenj6.png" alt="SQL Icon" height="50">
+</p>
