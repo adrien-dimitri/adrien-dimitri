@@ -12,6 +12,10 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-423x512-6xpyyw7t.png" alt="PyTorch Icon" height="50">
     &nbsp; &nbsp; &nbsp;
+    <img src="https://github.com/user-attachments/assets/469a88d1-d719-4778-9523-661f2b804036" alt="Javascript Icon" height="50">
+    &nbsp; &nbsp; &nbsp;
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/webpack-icon-logo.png" alt="Webpack Icon" height="50">
+    &nbsp; &nbsp; &nbsp;
     <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC Icon" height="50">
     &nbsp; &nbsp; &nbsp;
     <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-489x512-l5jhenj6.png" alt="SQL Icon" height="50">
