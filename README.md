@@ -16,7 +16,7 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/webpack-icon-logo.png" alt="Webpack Icon" height="50">
     &nbsp; &nbsp; &nbsp;
-    <img src="https://dvc.org/img/dvc_icon-color--square_vector.svg" alt="DVC Icon" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" alt="DVC Icon" height="50">
     &nbsp; &nbsp; &nbsp;
     <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="SQL Icon" height="50">
 </p>
